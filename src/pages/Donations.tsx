@@ -180,7 +180,7 @@ export default function Donations() {
               <li className="flex items-start gap-3">
                 <span className="text-brand-blue font-bold">✓</span>
                 <span>
-                  Contribui la proiecte Erasmus+ și schimburi internaționale
+                  Contribui la proiecte realizate cu și pentru comunitate
                 </span>
               </li>
               <li className="flex items-start gap-3">
